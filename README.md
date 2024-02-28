@@ -1,3 +1,5 @@
+<img src="https://www.canva.com/design/DAF-FyI1xvE/iqZqziSk4xlWSdwj_KEU5Q/view" />
+
 # My name is Tanner, welcome to my profile! 👋
 <img alt="my-stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tannerb2005&show_icons=true&bg_color=00000000"/>
 
