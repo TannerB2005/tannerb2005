@@ -1,11 +1,11 @@
 <img src="https://github.com/TannerB2005/tannerb2005/assets/143013135/2b4add12-4e41-4978-bcb2-a6f61e12ae28" />
 
 
-# My name is Tanner, welcome to my profile! 👋
+# My name is Tanner, thank you for taking time to check my profile, and welcome! 👋
 
 
 ## ***About Me***
-Tanner Bailey is a Junior Web Developer attending the **Career & Technology Center** in Cape Girardeau. He has heavily worked with: HTML5, CSS3, Javascript, and Markdown. His goal is to dedicate himself to continuous growth and work in order to achieve success with a reputable company. He also hopes to own and train a Golden Retriever one day.
+Tanner Bailey is a Junior Web Developer attending the **Career & Technology Center** but is also enrolled into the **CodeLabs Full Stack Development** both in Cape Girardeau. He has heavily worked with: HTML5, CSS3, Javascript, and Markdown. His goal is to dedicate himself to continuous growth and work in order to achieve success with a reputable company. He also hopes to own and train a Golden Retriever one day.
 
 
 
